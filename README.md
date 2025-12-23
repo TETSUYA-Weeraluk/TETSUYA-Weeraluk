@@ -10,7 +10,7 @@ I have 1 year of experience in web application development, specializing in Java
 - :man: Name : Weeraluk Sopapan (Tee)
 - :birthday: Birthday : 08-07-1998
 -  :telephone_receiver: Tel : 064-0534466
-- :house: Location : Phuket (able to relocate)
+- :house: Location : Ladprao, Bkk (able to relocate)
 - [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=weeraluk.sopa@gmail.com&tf=cm)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TETSUYA-Weeraluk&show_icons=true&theme=merko)
