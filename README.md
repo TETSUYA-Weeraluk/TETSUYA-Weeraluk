@@ -24,7 +24,11 @@ I have 1 year of experience in web application development, specializing in Java
 <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"  height="50">
 <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png"  height="50">
 <img src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png"  height="50">
+<img src="https://img5.pic.in.th/file/secure-sv1/fca49300-e7f1-11ea-9f51-cfd949b31560.png"  height="50">
 <img src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png"  height="50">
+<img src="https://img2.pic.in.th/pic/logo-color-600.png"  height="50">
+<img src="https://img2.pic.in.th/pic/logo060cc208801ed3d8.png"  height="50">
+<img src="https://img5.pic.in.th/file/secure-sv1/Ant.png"  height="50">
 <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png"  height="50">
 <img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png"  height="50">
 <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png"  height="50">
