@@ -60,7 +60,7 @@ Having pushed my Frontend skills to the limit, I am now seeking **harder challen
 </div>
 <br/>
 
-**📌 Currently Learning / Backend Journey** *(My focus for 2025 to become Fullstack)* <br/>
+**📌 Currently Learning / Backend Journey** *(My focus for 2026 to become Fullstack)* <br/>
 <div>
 <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png"  height="50">
 <img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png"  height="50">
