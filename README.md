@@ -79,10 +79,3 @@ Having pushed my Frontend skills to the limit, I am now seeking **harder challen
 <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png"  height="50">
 <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png"  height="50">
 </div>
-
-
-## <div align="center"> :star: Contributions in the last year  :star:</div>
-
-<div>
-<img src="https://img2.pic.in.th/pic/SCR-20251222-jfeq.png"  height="300"> <img src="https://img5.pic.in.th/file/secure-sv1/SCR-20251222-jfgm.png"  height="300">
-</div>
